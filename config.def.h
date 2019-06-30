@@ -207,6 +207,9 @@ ResourcePref resources[] = {
 		{ "cwscale",      FLOAT,   &cwscale },
 		{ "chscale",      FLOAT,   &chscale },
 };
+<<<<<<< HEAD
+>>>>>>> d4d91ef... In which our hero learns to be resourceful
+=======
 >>>>>>> d4d91ef... In which our hero learns to be resourceful
 
 /*
