@@ -94,7 +94,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.95;
+float alpha = 0.8;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
@@ -207,10 +207,6 @@ ResourcePref resources[] = {
 		{ "cwscale",      FLOAT,   &cwscale },
 		{ "chscale",      FLOAT,   &chscale },
 };
-<<<<<<< HEAD
->>>>>>> d4d91ef... In which our hero learns to be resourceful
-=======
->>>>>>> d4d91ef... In which our hero learns to be resourceful
 
 /*
  * Internal mouse shortcuts.
