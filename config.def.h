@@ -162,6 +162,7 @@ static unsigned int defaultattr = 11;
 static uint forcemousemod = ShiftMask;
 
 /*
+
  * Xresources preferences to load at startup
  */
 ResourcePref resources[] = {
@@ -196,7 +197,10 @@ ResourcePref resources[] = {
 		{ "cwscale",      FLOAT,   &cwscale },
 		{ "chscale",      FLOAT,   &chscale },
 };
+<<<<<<< HEAD
 >>>>>>> d4d91ef... In which our hero learns to be resourceful
+=======
+>>>>>>> 5ebae8a446de3bfff047c02c9e3b6194972b9c78
 
 /*
  * Internal mouse shortcuts.
